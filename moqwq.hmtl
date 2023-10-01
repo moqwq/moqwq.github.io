@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>moqwq</title>
+        <link rel="stylesheet" href="cssstyle.css">
+    </head>
+    <body style="background color: white;
+                background-size:100% 100%;
+                background-attachment:fixed">
+    <nav>
+        <ul>
+        <h1>我是魈厨！</h1>
+        <li><a href="#">资料</a></li>
+        <li><a href="#">武器</a></li>
+        <li><a href="#">圣遗物</a></li>
+        <li><a href="#">故事</a></li>
+        <li><a href="#">培养</a></li>
+        </ul>
+    </nav>
+        <br>
+        <a href="https://cn.bing.com/images/search?view=detailV2&ccid=PZDEWnSM&id=F0F8E0B8A2854422E12682651A2CC04F36880527&thid=OIP.PZDEWnSMHx-AyAHSisV6XQHaG_&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fblog%2f202208%2f04%2f20220804105159_ab7a2.jpg&exph=680&expw=720&q=%e9%ad%88&simid=608005161620614512&FORM=IRPRST&ck=9717313638D06066B8747BA53DF6492C&selectedIndex=55&ajaxhist=0&ajaxserp=0" target="_blank">魈魈最帅！</a>
+        <a href="heji.html" >
+            <strong>合集在这里哦~</strong>
+        </a>
+    </div>
+</html>
